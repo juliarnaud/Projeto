@@ -2,6 +2,13 @@
 
 <br>
 
+## Neste repósitorio você encontrará: 
+* Artefatos,
+* MVP do projeto,
+* Slide a respeito da solução.
+
+<br>
+
 ## Se achegue mais e entenda sobre esta iniciativa que traz melhorias no processo de gerenciamento das Bolsas de Assistência Estudantil.
 
 O objetivo é apresentar um projeto que tem como propósito solucionar o problema enfrentado pelas assistentes sociais do IFPE 
@@ -16,12 +23,8 @@ A equipe é formada por profissionais dedicados, que trabalham em conjunto para 
 dos stakeholders envolvidos. A definição de papéis e responsabilidades claras é fundamental para garantir uma gestão efetiva e a 
 entrega de resultados de qualidade.
 
-A equipe SCRUM é composta por Caio Buarque de Gusmão, 
-* Diego Henrique Vilaça Calixto, 
-* José Gabriel de Santos Nascimento, 
-  * Júlia Arnaud de Melo Fragoso e 
-       * Maria Geyzianny de Sousa Silva, 
-       todos com funções específicas dentro do projeto.
+A equipe SCRUM é composta por Caio Buarque de Gusmão, Diego Henrique Vilaça Calixto, José Gabriel de Santos Nascimento, 
+Júlia Arnaud de Melo Fragoso e Maria Geyzianny de Sousa Silva, todos com funções específicas dentro do projeto.
 
 * Gerente de Projetos: Júlia Arnaud de Melo Fragoso
 * Coordenador Project: José Gabriel de Santos Nascimento
