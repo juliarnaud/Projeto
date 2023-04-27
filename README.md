@@ -1,4 +1,4 @@
-#Gerenciamento de Programas das Bolsas de Assistência Estudantil
+# Gerenciamento de Programas das Bolsas de Assistência Estudantil
 
 <br>
 
@@ -9,8 +9,8 @@ processo, tornando-o mais eficiente e preciso, contribuindo para a melhoria do a
 espera para a aprovação de solicitações de bolsa assistência.
 
 <br>
-#Equipe do projeto.
 
+# Equipe do projeto.
 * A equipe é formada por profissionais dedicados, que trabalham em conjunto para garantir o sucesso do projeto e a satisfação 
 dos stakeholders envolvidos. A definição de papéis e responsabilidades claras é fundamental para garantir uma gestão efetiva e a 
 entrega de resultados de qualidade.
