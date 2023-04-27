@@ -17,9 +17,9 @@ dos stakeholders envolvidos. A definição de papéis e responsabilidades claras
 entrega de resultados de qualidade.
 
 A equipe SCRUM é composta por Caio Buarque de Gusmão, 
-       * Diego Henrique Vilaça Calixto, 
-       * José Gabriel de Santos Nascimento, 
-       * Júlia Arnaud de Melo Fragoso e 
+* Diego Henrique Vilaça Calixto, 
+* José Gabriel de Santos Nascimento, 
+  * Júlia Arnaud de Melo Fragoso e 
        * Maria Geyzianny de Sousa Silva, 
        todos com funções específicas dentro do projeto.
 
